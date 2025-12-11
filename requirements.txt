@@ -1,0 +1,26 @@
+# Core transformers and datasets
+transformers
+datasets
+
+# PEFT / LoRA for parameter-efficient fine-tuning
+peft
+
+# Accelerate for CPU-based training
+accelerate
+
+# Caching and fast model storage
+diskcache
+
+# LLaMA-CPP for GGUF model loading
+llama-cpp-python
+
+# Supporting packages
+numpy
+tqdm
+
+
+
+# To set up the environment in the future, you may need to run the following commands:
+#sudo apt update
+#sudo apt install build-essential cmake ninja-build git llama-cpp-python
+#pip install -r requirements.txt

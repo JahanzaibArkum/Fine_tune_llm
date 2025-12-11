@@ -1,0 +1,8 @@
+fine_env/
+=5.0
+merged_model/
+models/
+fine_tuned_grammar_100/
+*.safetensors
+*.bin
+
